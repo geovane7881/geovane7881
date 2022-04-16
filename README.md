@@ -1,15 +1,9 @@
 ### Hi there, I'm Geovane 👋 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geovane-c-77590a127/) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://geovane7881.github.io)
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=geovane7881.geovane7881)
 
-I am a full-stack developer. I love programming, and learning about stuff related with technology.
-
-I like software development because it's fascinating to look for solutions to problems we found in real life and abstract in a code form. As a developer I am always thinking how to achieve the best and cleaner solution for the problem, so that is reusable and easy to read.
+I am a full-stack developer. I love programming, and learning about stuff related with technology. I like software development because it's fascinating to look for solutions to problems we found in real life and abstract in a code form. As a developer I am always thinking how to achieve the best and cleaner solution for the problem, so that is reusable and easy to read.
 
 In my spare time I plan to study English, and game development. I'm also a linux enthusiast, as you might have noticed from my profile picture.
-
-</br>
-
-### Technologies
+## Technologies
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,7 +23,6 @@ In my spare time I plan to study English, and game development. I'm also a linux
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 ### WEB
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -50,4 +43,3 @@ In my spare time I plan to study English, and game development. I'm also a linux
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
